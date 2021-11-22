@@ -18,9 +18,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 public class shihabversion_hash {
 
 	 public static void main(String[] args) throws Exception {
-	
-	
-	
+
 	String[] passwords = { "Cork", "Dublin", "Wexford", "Kerry", "Kildare",
     "Kilkenny", "Mayo", "Galway",
      "Waterford", "Meath", "Limerick" };

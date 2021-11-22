@@ -29,16 +29,8 @@ public class nthRoot {
 
     public static void main(String[] args) {
 
-//        BigInteger b = BigInteger.valueOf(8);
-//        System.out.print("3rd integer root of 8 = ");
-//        System.out.println(iRoot(b, 3));
-//
-//        b = BigInteger.valueOf(9);
-//        System.out.print("3rd integer root of 9 = ");
-//        System.out.println(iRoot(b, 3));
-//
-//        b = BigInteger.valueOf(100).pow(2000).multiply(BigInteger.valueOf(2));
-//        System.out.print("First 2001 digits of the square root of 2: ");
-//        System.out.println(iRoot(b, 2));
+          BigInteger b = new BigInteger("121250253787868737368584398826113393941025469468697277170442308192260686654448243000");
+          System.out.println(iRoot(b,3));
+
     }
 }

@@ -97,7 +97,7 @@ public class App {
                 0x60, (byte) 0x31, (byte) 0x7b,
                 (byte) 0xd8, (byte) 0x27, (byte) 0xfb, (byte) 0x1b, (byte) 0xee, (byte) 0x01,
                 (byte) 0x30, (byte) 0x00,
-                (byte) 0x00,};
+                (byte) 0x00};
 
         // CO C1 C7 CA 60 31 7B D8 27 FB 1B EE 01 30 A4 47
         String cipherMessage1 = "5XWvgqrISJZ+DCXEryChjQ==";
